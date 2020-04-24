@@ -1,0 +1,4 @@
+d:\我的文档\桌面\C#\MvcApplication1\MODEL\bin\Debug\MODEL.dll
+d:\我的文档\桌面\C#\MvcApplication1\MODEL\bin\Debug\MODEL.pdb
+d:\我的文档\桌面\C#\MvcApplication1\MODEL\obj\Debug\MODEL.dll
+d:\我的文档\桌面\C#\MvcApplication1\MODEL\obj\Debug\MODEL.pdb

@@ -1,0 +1,14 @@
+d:\我的文档\桌面\C#\MvcApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\我的文档\桌面\C#\MvcApplication1\DAL\bin\Debug\DAL.dll
+d:\我的文档\桌面\C#\MvcApplication1\DAL\bin\Debug\DAL.pdb
+d:\我的文档\桌面\C#\MvcApplication1\DAL\bin\Debug\MODEL.dll
+d:\我的文档\桌面\C#\MvcApplication1\DAL\bin\Debug\MODEL.pdb
+d:\我的文档\桌面\C#\MvcApplication1\DAL\obj\Debug\DAL.dll
+d:\我的文档\桌面\C#\MvcApplication1\DAL\obj\Debug\DAL.pdb
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\bin\Debug\DAL.dll
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\bin\Debug\DAL.pdb
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\bin\Debug\MODEL.dll
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\bin\Debug\MODEL.pdb
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\obj\Debug\DAL.dll
+D:\MXS\language\C#\vs2013Project\MvcApplication1\DAL\obj\Debug\DAL.pdb
